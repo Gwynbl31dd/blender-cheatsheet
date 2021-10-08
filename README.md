@@ -20,3 +20,18 @@ Simple Blender personal cheat sheet
 | S | Scale |
 | R | Rotate |
 | R , ( Z or Y or X ) | Rotate on certain axis |
+| Numpad 5 | Switch orthographic and perspective view  |
+| Numpad 1 | Switch to front view  |
+| Shift + D | Duplicate object  |
+| Tab | Switch edit mode and object mode  |
+| X | Delete  |
+| . (numpad) | Zoom on Object  |
+
+## Edit Mode
+
+| Shortcut | Description |
+| ------ | ------ |
+| 1 | Vertex selection mode |
+| 2 | Edge selection mode |
+| 3 | Face selection mode |
+| ctrl + R | Loop cut |
