@@ -26,6 +26,10 @@ Simple Blender personal cheat sheet
 | Tab | Switch edit mode and object mode  |
 | X | Delete  |
 | . (numpad) | Zoom on Object  |
+| ctrl + L | Link  |
+| W | Switch selection mode  |
+| A | Select all  |
+| Alt + A | Clear selections  |
 
 ## Edit Mode
 
@@ -35,3 +39,7 @@ Simple Blender personal cheat sheet
 | 2 | Edge selection mode |
 | 3 | Face selection mode |
 | ctrl + R | Loop cut |
+| E | Extrude |
+| Alt + E | Extrusion menu |
+| Alt + Left click | Select edge loop |
+| G, G | Slide edit |
