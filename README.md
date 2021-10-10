@@ -30,6 +30,8 @@ Simple Blender personal cheat sheet
 | W | Switch selection mode  |
 | A | Select all  |
 | Alt + A | Clear selections  |
+| N | Toggle sidebar  |
+| Z | Open shadding menu  |
 
 ## Edit Mode
 
@@ -43,3 +45,10 @@ Simple Blender personal cheat sheet
 | Alt + E | Extrusion menu |
 | Alt + Left click | Select edge loop |
 | G, G | Slide edit |
+
+### Loop cut
+
+| Shortcut | Description |
+| ------ | ------ |
+| F | (Flipped) Keep structure of each side |
+| E | (Even) Keep structure of the object |
