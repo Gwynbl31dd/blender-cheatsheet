@@ -46,6 +46,7 @@ Simple Blender personal cheat sheet
 | Alt + E | Extrusion menu |
 | Alt + Left click | Select edge loop |
 | G, G | Slide edit |
+| I | Inset |
 
 ### Loop cut
 
