@@ -22,6 +22,7 @@ Simple Blender personal cheat sheet
 | R , ( Z or Y or X ) | Rotate on certain axis |
 | Numpad 5 | Switch orthographic and perspective view  |
 | Numpad 1 | Switch to front view  |
+| Numpad 7 | Switch to top view  |
 | Shift + D | Duplicate object  |
 | Tab | Switch edit mode and object mode  |
 | X | Delete  |
