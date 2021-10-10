@@ -33,6 +33,7 @@ Simple Blender personal cheat sheet
 | Alt + A | Clear selections  |
 | N | Toggle sidebar  |
 | Z | Open shadding menu  |
+| ctrl + A | Apply  |
 
 ## Edit Mode
 
