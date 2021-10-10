@@ -34,6 +34,10 @@ Simple Blender personal cheat sheet
 | N | Toggle sidebar  |
 | Z | Open shadding menu  |
 | ctrl + A | Apply  |
+| H | Hide |
+| Alt + H | Unhide |
+| F3 | Search shortcut |
+| shift + S | Snap |
 
 ## Edit Mode
 
@@ -48,6 +52,9 @@ Simple Blender personal cheat sheet
 | Alt + Left click | Select edge loop |
 | G, G | Slide edit |
 | I | Inset |
+| P | Separate |
+| F | Fill in |
+| ctrl + B | Bevel |
 
 ### Loop cut
 
