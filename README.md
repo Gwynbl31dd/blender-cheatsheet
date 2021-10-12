@@ -55,6 +55,7 @@ Simple Blender personal cheat sheet
 | P | Separate |
 | F | Fill in |
 | ctrl + B | Bevel |
+| ctrl + E | Edge menu |
 
 ### Loop cut
 
